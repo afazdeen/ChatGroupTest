@@ -1,0 +1,39 @@
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.deps.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.runtimeconfig.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.runtimeconfig.dev.json
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.dll
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.pdb
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.RazorAssemblyInfo.cache
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.RazorAssemblyInfo.cs
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.AssemblyInfoInputs.cache
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.AssemblyInfo.cs
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.RazorTargetAssemblyInfo.cache
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.dll
+C:\Users\AfazD\source\repos\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.pdb
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\appsettings.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.deps.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.runtimeconfig.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.runtimeconfig.dev.json
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.dll
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\bin\Debug\netcoreapp2.1\EchoBot2TestGroup.pdb
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.csprojAssemblyReference.cache
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.RazorAssemblyInfo.cache
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.RazorAssemblyInfo.cs
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.AssemblyInfoInputs.cache
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.AssemblyInfo.cs
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.RazorTargetAssemblyInfo.cache
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.dll
+D:\99xProjects\Project3 - SkypeBot\EchoBot2TestGroup\EchoBot2TestGroup\obj\Debug\netcoreapp2.1\EchoBot2TestGroup.pdb
